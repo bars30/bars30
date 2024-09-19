@@ -9,5 +9,6 @@ I'm a passionate Frontend Developer who thrives on crafting exceptional user exp
 *   🌍  I'm based in Armenia
 *   ✉️  You can contact me at [abarseghyan863@gmail.com](mailto:abarseghyan863@gmail.com)
 *   🚀  I'm currently working on [Apple IPhone Clone Website](http://github.com/bars30/Apple-Iphone-Clone)
-*   🧠  I'm learning React JS, Vue JS
 *   🤝  I'm open to collaborating on interesting projects!### Skills 
+
+![GitHub Snake Animation](https://github.com/your-username/snk/blob/output/github-contribution-grid-snake.svg)
